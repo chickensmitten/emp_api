@@ -1,1 +1,7 @@
-# emp_api
+This test application is from sitepoint's tutorial. It is rather thorough to get started.
+
+http://www.sitepoint.com/build-great-apis-grape/
+
+Though, there are two things I do not like about it:
+(1) There is a mistake with the code from curl
+(2) I don't find the location of the api folders and files intuitive. 
