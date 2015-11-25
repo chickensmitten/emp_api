@@ -7,4 +7,4 @@ Though, there are two things I do not like about it:
 (2) I don't find the location of the api folders and files intuitive. 
 
 For point 2, I prefer to follow 
-http://codetunes.com/2014/introduction-to-building-apis-with-grape/
+http://www.thegreatcodeadventure.com/making-a-rails-api-with-grap/
